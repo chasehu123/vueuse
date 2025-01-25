@@ -7,6 +7,8 @@ import {
   transformerVariantGroup,
 } from 'unocss'
 
+() => {}
+
 export default defineConfig({
   shortcuts: {
     'border-main': 'border-$vp-c-divider',
